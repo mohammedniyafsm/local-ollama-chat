@@ -1,0 +1,9 @@
+{
+  "name": "ollama-readable-ui",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A readable local chat interface for Ollama models.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
